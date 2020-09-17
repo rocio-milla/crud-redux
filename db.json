@@ -2,27 +2,27 @@
   "items": [
     {
       "id": 1,
-      "nombre": "Carrot juice",
-      "precio": "31111"
+      "name": "Carrot juice",
+      "price": "31111"
     },
     {
       "id": 2,
-      "nombre": "Orange juice",
-      "precio": "1"
+      "name": "Orange juice",
+      "price": "1"
     },
     {
-      "nombre": "Tangerine juice",
-      "precio": "300",
+      "name": "Tangerine juice",
+      "price": "300",
       "id": 3
     },
     {
-      "nombre": "Rib Eye 800g",
-      "precio": "200",
+      "name": "Rib Eye 800g",
+      "price": "200",
       "id": 4
     },
     {
-      "nombre": "Strawberry juice",
-      "precio": "200",
+      "name": "Strawberry juice",
+      "price": "200",
       "id": 5
     },
     {
@@ -39,6 +39,11 @@
       "name": "vodka",
       "price": 5,
       "id": 8
+    },
+    {
+      "name": "43",
+      "price": 4,
+      "id": 9
     }
   ]
 }
